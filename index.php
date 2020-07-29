@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<?php
-echo "solucionando conflictos";
 
-?>
-=======
 <!DOCTYPE html>
 <html lang="e">
 <head>
@@ -20,4 +15,4 @@ content="ie=edge">
 
 </body>
 </html>
->>>>>>> actualizando
+
